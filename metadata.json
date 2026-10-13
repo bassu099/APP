@@ -1,0 +1,6 @@
+{
+  "name": "SurplusBox",
+  "description": "Hyperlocal surplus food marketplace connecting local bakeries and restaurants with college students using geofencing, dynamic decay pricing, and ephemeral inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
